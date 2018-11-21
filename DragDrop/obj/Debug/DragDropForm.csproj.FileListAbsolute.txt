@@ -21,7 +21,105 @@ E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\
 E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
 E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.exe
 E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
-E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csprojResolveAssemblyReference.cache
-E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.Form1.resources
-E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.Cache
+E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csprojResolveAssemblyReference.cache
+E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\UserControls\C#\v6_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.Cache
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\UserControls\C#\v7_DragDropListBox\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v4\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v5\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v6\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v7\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v8\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\DragDropForm.Form1.resources
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jordan\Desktop\FTDC_v8\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v10\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\DragDropForm.Form1.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\WindowsFormsApplication1.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Debug\WindowsFormsApplication1.pdb
