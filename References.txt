@@ -1,0 +1,13 @@
+FTDC
+https://msdn.microsoft.com/en-us/library/3z2ck8eh(v=vs.110).aspx
+https://social.msdn.microsoft.com/Forums/en-US/ba16b042-53e0-4e48-a454-618f38745cfb/c-drag-and-drop?forum=winforms
+https://stackoverflow.com/questions/16591975/c-sharp-drag-and-drop-from-listbox
+https://www.youtube.com/watch?v=OyKv1Xcod6c
+https://stackoverflow.com/questions/37939931/c-renaming-a-file-in-a-draganddrop-listbox-control/37940785#37940785
+https://www.youtube.com/watch?v=1cSK7NMNRLg&index=195&list=PL-EU0JUF-XD1saII7gONUxMIbk13XkmCV
+https://stackoverflow.com/questions/27878153/following-controls-were-added-but-are-not-enabled
+https://stackoverflow.com/questions/13049732/automatically-rename-a-file-if-it-already-exists-in-windows-way
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-copy-delete-and-move-files-and-folders
+https://www.codeproject.com/Questions/446748/Save-a-file-in-a-specific-folder
+https://stackoverflow.com/questions/15140212/copy-files-from-one-location-to-another
+https://stackoverflow.com/questions/3881450/c-sharp-copy-a-file-to-another-location-with-a-different-name
