@@ -1,2 +1,2 @@
-# v6_DragDropListBox
-A simple C# form that contains a dragdrop box that renames files with the time and date of their creation when they're dragged into it. Logs are included that show the debugging methods I used including references to where code was used from.
+# File Time Date Converter
+A simple C# form that contains a dragdrop box text box and that renaming "Convert" button which renames files with the time and date of their creation when they're dragged into the box. A text box is for where you want to chuck the renamed files to all at once.
