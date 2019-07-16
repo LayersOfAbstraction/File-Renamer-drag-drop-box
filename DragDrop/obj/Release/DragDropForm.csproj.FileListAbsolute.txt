@@ -1,0 +1,11 @@
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Release\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Release\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\bin\Release\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.Properties.Resources.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v11\DragDrop\obj\Release\DragDropForm.frmSettings.resources

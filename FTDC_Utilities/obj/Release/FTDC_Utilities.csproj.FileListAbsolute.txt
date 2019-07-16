@@ -1,0 +1,6 @@
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\bin\Release\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\bin\Release\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\obj\Release\FTDC_Utilities.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\obj\Release\FTDC_Utilities.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\obj\Release\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\FTDC_Utilities\obj\Release\FTDC_Utilities.pdb

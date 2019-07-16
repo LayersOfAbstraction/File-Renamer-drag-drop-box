@@ -1,0 +1,104 @@
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v15\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v16\DragDrop\obj\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v17\DragDrop\obj\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\Backups\FTDC_v18\DragDrop\obj\Debug\FTDC.pdb
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\bin\Debug\FTDC.exe.config
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\bin\Debug\FTDC.exe
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\bin\Debug\FTDC.pdb
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\bin\Debug\FTDC_Utilities.dll
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\bin\Debug\FTDC_Utilities.pdb
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.frmMain.resources
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.frmSettings.resources
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\FTDC.exe
+C:\Users\Jordan\Desktop\FTDC_v18\DragDrop\obj\Debug\FTDC.pdb
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\bin\Debug\FTDC.exe.config
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\bin\Debug\FTDC.exe
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\bin\Debug\FTDC.pdb
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\bin\Debug\FTDC_Utilities.dll
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\bin\Debug\FTDC_Utilities.pdb
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.frmMain.resources
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.frmSettings.resources
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\FTDC.exe
+C:\Users\Jordan\Desktop\FTDC_v21\DragDrop\obj\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v21\DragDrop\obj\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\bin\Debug\FTDC.exe.config
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\bin\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\bin\Debug\FTDC.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\bin\Debug\FTDC_Utilities.dll
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\bin\Debug\FTDC_Utilities.pdb
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.frmMain.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.frmSettings.resources
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.csproj.GenerateResource.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\UI.csproj.CopyComplete
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\FTDC.exe
+E:\Work\Programming Experiments\C#\FTDC\Development\FTDC_v22\DragDrop\obj\Debug\FTDC.pdb

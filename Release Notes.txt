@@ -1,0 +1,4 @@
+UPDATE 2019/7/15
+- Added new setting form containing a data grid with a column that gets mapped back to the renamed file.
+- Added CRUD for Setting form.
+- Enabled objects to be kept alive from setting form even after form closes. 
