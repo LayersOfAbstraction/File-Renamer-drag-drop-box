@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "DragDrop\UI.csproj", "{6067C5C5-55BA-4AD7-8ECF-09C295111B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTDC_Utilities", "FTDC_Utilities\FTDC_Utilities.csproj", "{1A3F7018-DD3E-4576-B4B8-F86EDFA374BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6067C5C5-55BA-4AD7-8ECF-09C295111B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6067C5C5-55BA-4AD7-8ECF-09C295111B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6067C5C5-55BA-4AD7-8ECF-09C295111B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6067C5C5-55BA-4AD7-8ECF-09C295111B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3F7018-DD3E-4576-B4B8-F86EDFA374BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3F7018-DD3E-4576-B4B8-F86EDFA374BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3F7018-DD3E-4576-B4B8-F86EDFA374BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3F7018-DD3E-4576-B4B8-F86EDFA374BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E90347D-3E1D-46E1-910D-F5E9933FCA8B}
+	EndGlobalSection
+EndGlobal
